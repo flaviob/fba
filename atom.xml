@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Mi primer blog en Ruby]]></title>
+  <link href="http://flaviob.github.io/atom.xml" rel="self"/>
+  <link href="http://flaviob.github.io/"/>
+  <updated>2015-09-18T20:22:30+00:00</updated>
+  <id>http://flaviob.github.io/</id>
+  <author>
+    <name><![CDATA[F. B. Amiel]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Zombie Ninjas Attack: A Survivor's Retrospective]]></title>
+    <link href="http://flaviob.github.io/blog/zombie-ninjas-attack-a-survivors-retrospective/"/>
+    <updated>2015-09-18T19:37:00+00:00</updated>
+    <id>http://flaviob.github.io/blog/zombie-ninjas-attack-a-survivors-retrospective</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Title]]></title>
+    <link href="http://flaviob.github.io/blog/title/"/>
+    <updated>2015-09-18T19:32:00+00:00</updated>
+    <id>http://flaviob.github.io/blog/title</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Este Es El Blog Post Mas Complejo Que He Hecho en Mi Vida]]></title>
+    <link href="http://flaviob.github.io/blog/este-es-el-blog-post-mas-complejo-que-he-hecho-en-mi-vida/"/>
+    <updated>2015-09-18T00:00:00+00:00</updated>
+    <id>http://flaviob.github.io/blog/este-es-el-blog-post-mas-complejo-que-he-hecho-en-mi-vida</id>
+    <content type="html"><![CDATA[<hr />
+
+<p>layout: post
+title: &ldquo;Este es el blog post mas complejo que he hecho en mi vida&rdquo;
+date: 2015-09-18 19:38:15 +0000
+comments: true
+categories:
+- hacks
+- blogging</p>
+]]></content>
+  </entry>
+  
+</feed>
